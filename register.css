@@ -1,0 +1,11 @@
+body{
+    background-image:url(vanilla.avif);
+    background-repeat:no-repeat;
+    background-size: 2000px 800px;
+}
+form{
+    border:solid;
+    width:350px;
+    margin-left:1000px;
+    margin-top:80px;
+}
